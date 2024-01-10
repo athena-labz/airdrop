@@ -1,0 +1,23 @@
+{
+    "blockfrost_project_id": "",
+    "network": "testnet",
+    "signing_key": "582063854f9bc668f7ad9e55719148dbe69b447591b7115738963fdcf6658c649144",
+    "address": "addr_test1vzyp0sahl6yqzwvzx275yktzndpjc78pwhnjgq7vh9swuzq9mawtv",
+    "asset": {
+        "policy_id": "80870444f4caff9342606abf2f65d851d2118947709655613310ab87",
+        "asset_name": "75732d30"
+    },
+    "outputs": [{
+        "address": "addr_test1qrp8nc4tjd97ct4wl3c24ltg09tu7arqxsv43l9ek5qew25xf7rslhy0pg370qfmzck6ayfcv3n09qgh3nfhtk8exycsrn3y43",
+        "amount": 1000000
+    }, {
+        "address": "addr_test1qqswera7qph8c9d7grytl9a34c637k9hk40q2w64fuzysmjlfehxtjcg6u5087s2jfs8ry7mj4lh8cplvrwx2fqlgnaqvpqchp",
+        "amount": 1000000
+    }, {
+        "address": "addr_test1qr30cn78239s08t27vtr3u2wmyqmt8ycy752e430kcpnk3td5a5895w796yhkts43e609jc9ljs8rrhexzp8azk5nzgszdg6sa",
+        "amount": 2000000
+    }, {
+        "address": "addr_test1qp747wu6gsvxplhzv5uz5mhw47rv82pl5ydzkgfuj037cyq5ca83vxg4dzuudph5uh32pncujdjj5w7uvers088vagaqcy0mlr",
+        "amount": 3000000
+    }]
+}
